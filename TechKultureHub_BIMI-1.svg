@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     version="1.2" baseProfile="tiny-ps"
+     viewBox="0 0 512 512"
+     width="512" height="512">
+  <title>TechKulture Hub</title>
+
+  <!-- White background circle -->
+  <circle cx="256" cy="256" r="256" fill="#ffffff"/>
+
+  <!-- Cloud outline -->
+  <path d="M160 290 Q130 290 115 270 Q100 250 115 230 Q125 215 142 213 Q142 195 155 183 Q168 171 185 172 Q190 155 207 148 Q224 141 240 150 Q250 138 265 137 Q285 136 298 150 Q315 143 330 155 Q342 165 342 180 Q357 182 366 195 Q378 212 370 230 Q382 242 382 258 Q382 278 368 290 Q354 302 335 302 L178 302 Q160 302 160 290 Z"
+    fill="none" stroke="#1a3a6b" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Shield body -->
+  <path d="M256 158 L204 178 L204 228 Q204 268 256 292 Q308 268 308 228 L308 178 Z"
+    fill="#4a7ec7" stroke="#1a3a6b" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M256 165 L210 183 L210 228 Q210 264 256 286 Q302 264 302 228 L302 183 Z"
+    fill="#1a3a6b"/>
+
+  <!-- Shield checkmark -->
+  <polyline points="228,235 248,255 282,215"
+    fill="none" stroke="#ffffff" stroke-width="12"
+    stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Text: TechKulture -->
+  <text x="256" y="345"
+    font-family="Arial"
+    font-weight="bold"
+    font-size="46"
+    fill="#1a3a6b"
+    text-anchor="middle">TechKulture</text>
+
+  <!-- Divider lines -->
+  <line x1="148" y1="368" x2="210" y2="368" stroke="#4a7ec7" stroke-width="2"/>
+  <line x1="302" y1="368" x2="364" y2="368" stroke="#4a7ec7" stroke-width="2"/>
+
+  <!-- Text: Hub -->
+  <text x="256" y="378"
+    font-family="Arial"
+    font-weight="bold"
+    font-size="36"
+    fill="#4a7ec7"
+    text-anchor="middle">Hub</text>
+
+  <!-- Tagline -->
+  <text x="256" y="420"
+    font-family="Arial"
+    font-weight="normal"
+    font-size="17"
+    fill="#666666"
+    text-anchor="middle">Empowering Business. Delivering Tomorrow.</text>
+
+</svg>
